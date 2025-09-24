@@ -25,7 +25,7 @@
 - 📱 Pernah membangun **aplikasi absensi Flutter + Laravel** dengan QR Code & autentikasi  
 - 👨‍💻 Ketua **Komunitas IT**, aktif membimbing anggota lain dalam pemrograman & teknologi  
 - 🏛️ Eks **Ketua Divisi HAM & Demokrasi OSIS**, terlatih dalam kepemimpinan & komunikasi  
-- 🚀 Selalu ingin berkembang, berinovasi, dan menghadirkan **solusi digital berdampak positif**  
+- 🚀 Niat ibadah kepada Allah Subhanahu wa ta'ala ! 
 
 ---
 
