@@ -40,7 +40,7 @@
 
 ---
 
-📊 GitHub Showcase (Static Example)  
+📊 GitHub Showcase   
 <p align="center">
   <img src="https://github.com/andaa92/andaa92/blob/main/assets/github-stats.png" width="400"/>
   <img src="https://github.com/andaa92/andaa92/blob/main/assets/top-langs.png" width="400"/>
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  ✨ "Code is like humor. When you have to explain it, it’s bad." ✨
+   "Coding in every where and anywhere." 
 </p>
