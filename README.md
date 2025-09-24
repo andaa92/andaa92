@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
 </p>
 <br><br>
----
+
 
 🌟 Tentang Saya
 
@@ -23,7 +23,7 @@
 🏛️ Pernah menjabat sebagai Ketua Divisi HAM dan Demokrasi OSIS, mengasah kepemimpinan, komunikasi, dan kerja sama tim
 
 🚀 Berkomitmen untuk terus belajar, berinovasi, dan menciptakan solusi digital yang bermanfaat dan berdampak positif
----
+
 
 🛠️ Tech Stack  
 <p align="center">
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+
 
 📊 GitHub Showcase (Static Example)  
 <p align="center">
@@ -46,12 +46,12 @@
 
 
 
----
+
 
 🚀 Featured Projects  
 
 
----
+
 
 🌐 Connect With Me  
 <p align="center">
