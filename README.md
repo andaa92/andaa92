@@ -10,7 +10,7 @@
 
 <!-- GIF Kucing Hitam Ngoding -->
 <p align="center">
-  <img src="https://media.giphy.com/media/kZWg3u1aR7lTn0Lx5O/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
 </p>
 
 <!-- Divider elegan -->
