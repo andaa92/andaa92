@@ -11,6 +11,7 @@
 ---
 
 🌟 Tentang Saya
+
 Saya adalah pelajar SMK Negeri 11 Bandung, jurusan Rekayasa Perangkat Lunak, dengan minat utama pada pengembangan aplikasi web dan mobile. Memiliki keterampilan dalam menggunakan Laravel, Flutter, dan React JS, serta pemahaman yang baik mengenai REST API, manajemen basis data, dan Git sebagai version control. Saya pernah mengembangkan aplikasi absensi berbasis Flutter dengan backend Laravel, yang dilengkapi dengan fitur QR Code, autentikasi pengguna, dan sinkronisasi data, sekaligus menerapkan praktik terbaik dalam pengujian serta debugging.
 
 Selain kemampuan teknis, saya aktif dalam organisasi dan kepemimpinan. Sebagai Ketua Komunitas IT, saya terbiasa membimbing anggota lain dalam belajar pemrograman dan tren teknologi terbaru. Pengalaman saya sebagai Ketua Divisi HAM dan Demokrasi OSIS juga mengasah keterampilan dalam kepemimpinan, kerja sama tim, serta komunikasi yang efektif.
