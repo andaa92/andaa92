@@ -54,7 +54,7 @@
 ---
 
 🚀 Featured Projects  
-✨ Soon to be unleashed... stay tuned! ✨  
+Coming soon 😊
 
 ---
 
