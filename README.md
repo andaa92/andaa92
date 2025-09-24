@@ -10,11 +10,12 @@
 
 ---
 
-🌟 About Me  
-- 🔭 Currently working on school & personal projects  
-- 🌱 Learning Laravel, Flutter, and modern software stacks  
-- 👯 Open to collaborate on open-source & innovative projects  
-- ⚡ Fun fact: I turn coffee ☕ into code 💻  
+🌟 Tentang Saya
+Saya adalah pelajar SMK Negeri 11 Bandung, jurusan Rekayasa Perangkat Lunak, dengan minat utama pada pengembangan aplikasi web dan mobile. Memiliki keterampilan dalam menggunakan Laravel, Flutter, dan React JS, serta pemahaman yang baik mengenai REST API, manajemen basis data, dan Git sebagai version control. Saya pernah mengembangkan aplikasi absensi berbasis Flutter dengan backend Laravel, yang dilengkapi dengan fitur QR Code, autentikasi pengguna, dan sinkronisasi data, sekaligus menerapkan praktik terbaik dalam pengujian serta debugging.
+
+Selain kemampuan teknis, saya aktif dalam organisasi dan kepemimpinan. Sebagai Ketua Komunitas IT, saya terbiasa membimbing anggota lain dalam belajar pemrograman dan tren teknologi terbaru. Pengalaman saya sebagai Ketua Divisi HAM dan Demokrasi OSIS juga mengasah keterampilan dalam kepemimpinan, kerja sama tim, serta komunikasi yang efektif.
+
+Dengan semangat belajar yang tinggi dan orientasi pada inovasi, saya berkomitmen untuk terus berkembang dan menghadirkan solusi digital yang bermanfaat, efisien, serta berdampak positif.
 
 ---
 
@@ -42,9 +43,7 @@
 ---
 
 🚀 Featured Projects  
-- Project 1 — Short description  
-- Project 2 — Short description  
-- Project 3 — Short description  
+
 
 ---
 
