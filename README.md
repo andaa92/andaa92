@@ -1,10 +1,10 @@
-<!-- Banner dengan efek wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=200&section=header&text=Welcome+to+Andra's+Profile!&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=IT+Student+%7C+Software+Developer+Enthusiast&descAlignY=65&descAlign=50"/>
+<!-- Banner Header Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome+to+Andra's+World!&fontSize=45&fontColor=ffffff&color=gradient&customColorList=2,30,50,70,100" width="100%"/>
 
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/andaa92">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A74DA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Andra;IT+Student+from+Bandung;Aspiring+Software+Developer;Flutter+%26+Laravel+Enthusiast;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Andra;From+Bandung%2C+Indonesia;IT+Student+%7C+Junior+Programmer;Flutter+%26+Laravel+Enthusiast;React+JS+%7C+Python+%7C+Kotlin;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,19 +13,19 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
 </p>
 
-<!-- Divider elegan -->
+<!-- Divider Neon -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andaa92/andaa92/main/assets/divider.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/andaa92/andaa92/main/assets/divider.gif" width="850"/>
 </p>
 
 
 🌟 Tentang Saya  
 - 🎓 Pelajar **SMK Negeri 11 Bandung**, jurusan Rekayasa Perangkat Lunak  
-- 💻 Terampil menggunakan **Laravel, Flutter, React JS, Python, Kotlin**  
-- 📱 Pengalaman membangun **aplikasi absensi Flutter + Laravel** dengan QR Code & autentikasi  
-- 👨‍💻 Ketua **Komunitas IT**, aktif membimbing anggota dalam pemrograman & teknologi  
-- 🏛️ Mantan **Ketua Divisi HAM & Demokrasi OSIS**, terlatih dalam kepemimpinan & komunikasi  
-- 🚀 Komitmen untuk terus belajar, berinovasi, dan menciptakan solusi digital yang berdampak positif  
+- 💻 Terampil dengan **Laravel, Flutter, React JS, Python, Kotlin**  
+- 📱 Pernah membangun **aplikasi absensi Flutter + Laravel** dengan QR Code & autentikasi  
+- 👨‍💻 Ketua **Komunitas IT**, aktif membimbing anggota lain dalam pemrograman & teknologi  
+- 🏛️ Eks **Ketua Divisi HAM & Demokrasi OSIS**, terlatih dalam kepemimpinan & komunikasi  
+- 🚀 Selalu ingin berkembang, berinovasi, dan menghadirkan **solusi digital berdampak positif**  
 
 ---
 
@@ -54,28 +54,28 @@
 ---
 
 🚀 Featured Projects  
-✨ Coming Soon... ✨  
+✨ Soon to be unleashed... stay tuned! ✨  
 
 ---
 
 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-andra-331050323">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/andaa92">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-   ✨ "Coding everywhere, anytime — building solutions that matter." ✨
+   "Coding in every where and any where."   
 </p>
 
-<!-- Banner footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=footer"/>
+<!-- Banner Footer Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,30,50,70,100"/>
