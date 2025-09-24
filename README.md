@@ -37,7 +37,7 @@
   <img src="https://github.com/andaa92/andaa92/blob/main/assets/top-langs.png" width="400"/>
 </p>
 
-👉 Catatan: bagian ini pakai gambar statis. Kamu bisa screenshot stats kamu sendiri lalu taruh di folder `assets/`.
+
 
 ---
 
