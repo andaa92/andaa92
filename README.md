@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm [Andra]</h1>
-<h3 align="center">💻 IT Student | Aspiring Software Developer | Lifelong Learner</h3>
+<p align="center">
+  <a href="https://github.com/andaa92">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andra;IT+Student;Aspiring+Software+Developer;Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
+</p>
 
 ---
 
-### 🌟 About Me  
-- 🔭 I’m currently working on **school & personal projects**  
-- 🌱 I’m currently learning **Laravel, Flutter, and modern software stacks**  
-- 👯 I’m looking to collaborate on **open-source & innovative projects**  
-- ⚡ Fun fact: *I turn coffee ☕ into code 💻*  
+🌟 About Me  
+- 🔭 Currently working on school & personal projects  
+- 🌱 Learning Laravel, Flutter, and modern software stacks  
+- 👯 Open to collaborate on open-source & innovative projects  
+- ⚡ Fun fact: I turn coffee ☕ into code 💻  
 
 ---
 
-### 🛠️ Tech Stack  
+🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -24,25 +31,24 @@
 
 ---
 
-### 📊 GitHub Stats  
+📊 GitHub Showcase (Static Example)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github.com/andaa92/andaa92/blob/main/assets/github-stats.png" width="400"/>
+  <img src="https://github.com/andaa92/andaa92/blob/main/assets/top-langs.png" width="400"/>
 </p>
 
----
-
-### 🚀 Featured Projects  
-- 🔹 [Project 1](link-repo) — Short description  
-- 🔹 [Project 2](link-repo) — Short description  
-- 🔹 [Project 3](link-repo) — Short description  
+👉 Catatan: bagian ini pakai gambar statis. Kamu bisa screenshot stats kamu sendiri lalu taruh di folder `assets/`.
 
 ---
 
-### 🌐 Connect With Me  
+🚀 Featured Projects  
+- Project 1 — Short description  
+- Project 2 — Short description  
+- Project 3 — Short description  
+
+---
+
+🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-andra-331050323">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -57,4 +63,6 @@
 
 ---
 
-<p align="center">✨ "Code is like humor. When you have to explain it, it’s bad." ✨</p>
+<p align="center">
+  ✨ "Code is like humor. When you have to explain it, it’s bad." ✨
+</p>
