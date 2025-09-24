@@ -24,7 +24,7 @@
 
 🚀 Berkomitmen untuk terus belajar, berinovasi, dan menciptakan solusi digital yang bermanfaat dan berdampak positif
 
-
+---
 
 
 🛠️ Tech Stack  
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-
+---
 
 📊 GitHub Showcase (Static Example)  
 <p align="center">
@@ -47,13 +47,13 @@
 </p>
 
 
-
+---
 
 
 🚀 Featured Projects  
 
 
-
+---
 
 🌐 Connect With Me  
 <p align="center">
