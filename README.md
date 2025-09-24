@@ -4,19 +4,20 @@
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/andaa92">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andra;IT+Student+from+Bandung;Aspiring+Software+Developer;Flutter+%26+Laravel+Enthusiast;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Andra;IT+Student+from+Bandung;Aspiring+Software+Developer;Flutter+%26+Laravel+Enthusiast;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Icon/GIF tambahan -->
+<!-- GIF Kucing Hitam Ngoding -->
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/kZWg3u1aR7lTn0Lx5O/giphy.gif" width="250"/>
 </p>
 
 <!-- Divider elegan -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andaa92/andaa92/main/assets/divider.gif" width="800"/>
 </p>
+
 
 <br><br>
 
