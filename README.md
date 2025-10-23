@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Muhammad Andra Maulana&fontSize=90&fontAlignY=35&fontColor=fff&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=55&animation=fadeIn&color=0:667eea,50:764ba2,100:f093fb" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Andra+from+Bandung;🚀+Building+Digital+Solutions;💻+Flutter+%7C+Laravel+%7C+React;🌟+Tech+Community+Leader;⚡+Always+Learning+%26+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Andra+from+Bandung;🚀+Building+Digital+Solutions;💻+Flutter+|+Laravel+|+React;🌟+Tech+Community+Leader;⚡+Always+Learning+%26+Growing" alt="Typing SVG" />
 
 <!-- Animated Developer GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
