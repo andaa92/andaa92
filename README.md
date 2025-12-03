@@ -331,7 +331,7 @@ Python       1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ║    making life easier for everyone."                     ║
 ║                                                           ║
 ║   نَوَيْتُ الْعِلْمَ لِلّٰهِ تَعَالٰى                    ║
-║   (I intend to seek knowledge for Allah's sake)          ║
+║   (I intend to seek knowledge for Allah sake)          ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
